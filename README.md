@@ -54,6 +54,4 @@ This project focuses on **colorizing black-and-white (grayscale) images** using 
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](./LICENSE).
